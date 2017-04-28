@@ -5,7 +5,6 @@ Due to the incredible inconsistency in mail clients and the way they render HTML
 
 Known Issues:
 
-- Outlook Web Apps: The underline on links in the previewer is browser dependant due the way the preprocessor handles the code. It's impossible to remove them.
-- Scaling in a Windows 125% zoom environment causes small 1px borders on certain tables. 
+- Outlook Web Apps: The underline on links in the previewer is browser dependant due the way the preprocessor handles the code. It's impossible to remove them. 
 
 Written by: Tom
